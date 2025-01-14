@@ -1,3 +1,7 @@
+<h1>Hello! I am a highschooler who is learning how to code.</h1>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/EliasNeerbye/EliasNeerbye/output/snake.svg" alt="Snake animation" />
 </div>
