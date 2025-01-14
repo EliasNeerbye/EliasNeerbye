@@ -1,4 +1,4 @@
-<h1>Hello! I am a highschooler who is learning how to code.</h1>
+<h1 align="center">Hello! I am a highschooler who is learning how to code.</h1>
 
 ###
 
